@@ -1,0 +1,11 @@
+C:\Users\Саша\Desktop\CI_CD\CI_CD_git\Program\Program\bin\Debug\net8.0\Program.deps.json
+C:\Users\Саша\Desktop\CI_CD\CI_CD_git\Program\Program\bin\Debug\net8.0\Program.dll
+C:\Users\Саша\Desktop\CI_CD\CI_CD_git\Program\Program\bin\Debug\net8.0\Program.pdb
+C:\Users\Саша\Desktop\CI_CD\CI_CD_git\Program\Program\obj\Debug\net8.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Саша\Desktop\CI_CD\CI_CD_git\Program\Program\obj\Debug\net8.0\Program.AssemblyInfoInputs.cache
+C:\Users\Саша\Desktop\CI_CD\CI_CD_git\Program\Program\obj\Debug\net8.0\Program.AssemblyInfo.cs
+C:\Users\Саша\Desktop\CI_CD\CI_CD_git\Program\Program\obj\Debug\net8.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\Саша\Desktop\CI_CD\CI_CD_git\Program\Program\obj\Debug\net8.0\Program.dll
+C:\Users\Саша\Desktop\CI_CD\CI_CD_git\Program\Program\obj\Debug\net8.0\refint\Program.dll
+C:\Users\Саша\Desktop\CI_CD\CI_CD_git\Program\Program\obj\Debug\net8.0\Program.pdb
+C:\Users\Саша\Desktop\CI_CD\CI_CD_git\Program\Program\obj\Debug\net8.0\ref\Program.dll
